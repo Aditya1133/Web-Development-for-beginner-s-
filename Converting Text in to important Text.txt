@@ -1,0 +1,8 @@
+<p>Question: What is the Anatomy of a Website?
+    </p>
+    <p>Answer: 
+        Website – A collection of one or more web pages linked together in a meaningful way that, as a whole, describes a body of information or creates an overall effect.
+        Web Server – A computer on the internet or an intranet that delivers web pages and other files in response to browser requests. (An intranet is a network that uses Internet Protocols but is not publicly accessible.)
+        Web Page – A single document on a website, usually consisting of a Hypertext Markup Language (HTML) document and any items that are displayed within that document, such as inline images or style sheets.
+        Home page – The entry page for a website, Which can link to additional pages on the same website or pages on other sites.	
+ </p>

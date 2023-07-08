@@ -1,0 +1,11 @@
+hypertext markup language
+
+Internet
+web ->  (features)--cross platform, interactive, hypertext information system(its the way you navigate through information non-linear);
+www- world wide web
+web pages-(a colletion of hypertext)
+website(a collection of web pages)
+web brosers(to display the website)
+web domain(to store the website we have ip address we access URL-uniform resorce locator)
+DNS(domain  name server)-(to convert domain to ip address)
+web server(to store domain)
