@@ -1,7 +1,7 @@
 hypertext markup language
 
 Internet
-web ->  (features)--cross platform, interactive, hypertext information system(its the way you navigate through information non-linear);
+web ->  (features)--cross platform, interactive,Dynamic,distributed hypertext information system(its the way you navigate through information non-linear);
 www- world wide web
 web pages-(a colletion of hypertext)
 website(a collection of web pages)
