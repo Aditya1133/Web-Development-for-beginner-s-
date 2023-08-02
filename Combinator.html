@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinator</title>
+    <style>
+        div{
+            border: 2px solid black;
+            margin: 20 px;
+        }
+        div >p{
+            background-color: blue;
+        }
+        span p {
+            color : red ;
+        }
+        div ~p{
+            background-color: aqua;
+        }
+        div +p{
+            color: darkgoldenrod;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Combinator</h1>
+    <ol>
+        <li>Descendant Combinator </li>
+        <li>Child Combinator ></li>
+        <li>General Sibling Combinator ~</li>
+        <li>Adjacent Sibling Combinator +</li>
+    </ol>
+    <div>
+        <p>Hello</p>
+        <span><p> bye</p></span>
+    </div>
+    <p>ewgkhej</p>
+    <p>egsgsk;avf</p>
+</body>
+</html>

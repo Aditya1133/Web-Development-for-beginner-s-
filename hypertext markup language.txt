@@ -9,3 +9,4 @@ web brosers(to display the website)
 web domain(to store the website we have ip address we access URL-uniform resorce locator)
 DNS(domain  name server)-(to convert domain to ip address)
 web server(to store domain)
+any tab be selectors
