@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Position Scheme's</title>
+    <style>
+        *{
+            margin: 0%;
+            padding: 0%;
+        }
+        p{
+            height: 200px;
+            width: 200px;
+            border: 2px solid black;
+
+        }
+        div{
+            width: 300px;
+            height: 300px;
+            border: 2px solid black;
+            position: relative;
+            z-index: 2;
+            background-color: chartreuse;
+        }
+        div:hover{
+                z-index: 0;
+            }
+        #p1{
+            background-color:#ffcccc ;
+            position: absolute;
+            z-index: 1;
+            /* position:fixed; */
+            /* top: 400px; */
+        }
+        
+        #p2{
+            background-color: blue;
+            color: white;
+            position: static;
+            z-index: 3;
+        }img{
+            height: 100px;
+            width: 100px;
+            position:absolute;
+        }
+    </style>
+</head>
+<body>
+    <!-- there a four types of positioning   
+        1. static(last on the bottom and the space is reserved  ) 
+        2. relative(the space is reserde but it can be shifted ) 
+        3.absolute(no Space reserved and any once can use it ) 
+        4. fixed (it has fixed it place)  -->
+        <!-- 1.scace is reserved for element in layout  2.Space is not reserved for element in layout --> 
+        <div>
+        <img src="instagramLogo.jpg" alt="insta image">
+        </div>
+        <p id="p1">Para 1 Hello, how are you ???</p>
+        <p id="p2">Para 2 I am good, what about you ???</p>
+
+
+</body>
+</html>
